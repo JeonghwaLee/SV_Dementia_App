@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/b949c68dbb940b911fd5875d50c9b2d2/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/f0bc0120c94937523dfcaa3c3418153a/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/59bf67ade7c49ee2a1f004ef082071a0/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/fee91ccb276a3ed74ea938e746b2f508/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/a20ae0c62d58e034d36794d04fbe6be3/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/7e99b2c598c5c7ac2a6ec089df8e5f1e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/cb030ee9774d6dbadecb6e37ea78ded2/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/76597a6ac516db6a72fa18813ff88f7d/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/32193f95f737adbfceb28cf1c1505af0/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/893d5c27d850400882dedb5748535f8f/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/21bbb0137b554d1c7458d6751f3100f7/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/030e8060bcb08747d70e16b5673b0032/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/731184ca63707e63447d3f3feae461f2/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/51c4904f4804317eee4d3f5255735f40/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/65dafb5c1509879dd0ea6b758e864747/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/30d91968478f91c4915dd55235a8e8c1/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/8ed70bb318a062e9be53ea00fd27fed6/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/23fe2f8098b279ebc408ea15ad6d95b3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/1a3a10c91bcd2641afe1879d456917c7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/00412851fb4220981a8703753b84f5c6/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/0d9061e3556a83de7d03df6a11091ca3/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/f0bc0120c94937523dfcaa3c3418153a/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/f0bc0120c94937523dfcaa3c3418153a/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/030e8060bcb08747d70e16b5673b0032/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/030e8060bcb08747d70e16b5673b0032/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/51c4904f4804317eee4d3f5255735f40/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/51c4904f4804317eee4d3f5255735f40/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/030e8060bcb08747d70e16b5673b0032/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.sktelecom.t3k.dementia.MainActivity
+ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/b949c68dbb940b911fd5875d50c9b2d2/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/b949c68dbb940b911fd5875d50c9b2d2/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/f0bc0120c94937523dfcaa3c3418153a/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/f0bc0120c94937523dfcaa3c3418153a/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/59bf67ade7c49ee2a1f004ef082071a0/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/59bf67ade7c49ee2a1f004ef082071a0/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/fee91ccb276a3ed74ea938e746b2f508/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/fee91ccb276a3ed74ea938e746b2f508/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/a20ae0c62d58e034d36794d04fbe6be3/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/a20ae0c62d58e034d36794d04fbe6be3/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/7e99b2c598c5c7ac2a6ec089df8e5f1e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/7e99b2c598c5c7ac2a6ec089df8e5f1e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/cb030ee9774d6dbadecb6e37ea78ded2/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/cb030ee9774d6dbadecb6e37ea78ded2/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/76597a6ac516db6a72fa18813ff88f7d/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/76597a6ac516db6a72fa18813ff88f7d/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/32193f95f737adbfceb28cf1c1505af0/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/32193f95f737adbfceb28cf1c1505af0/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/893d5c27d850400882dedb5748535f8f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/893d5c27d850400882dedb5748535f8f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/21bbb0137b554d1c7458d6751f3100f7/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/21bbb0137b554d1c7458d6751f3100f7/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/030e8060bcb08747d70e16b5673b0032/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/030e8060bcb08747d70e16b5673b0032/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/731184ca63707e63447d3f3feae461f2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/731184ca63707e63447d3f3feae461f2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/51c4904f4804317eee4d3f5255735f40/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/51c4904f4804317eee4d3f5255735f40/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/65dafb5c1509879dd0ea6b758e864747/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/65dafb5c1509879dd0ea6b758e864747/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/30d91968478f91c4915dd55235a8e8c1/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/30d91968478f91c4915dd55235a8e8c1/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/8ed70bb318a062e9be53ea00fd27fed6/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/8ed70bb318a062e9be53ea00fd27fed6/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/23fe2f8098b279ebc408ea15ad6d95b3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/23fe2f8098b279ebc408ea15ad6d95b3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/1a3a10c91bcd2641afe1879d456917c7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/1a3a10c91bcd2641afe1879d456917c7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/00412851fb4220981a8703753b84f5c6/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/00412851fb4220981a8703753b84f5c6/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/0d9061e3556a83de7d03df6a11091ca3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jeonghwalee/.gradle/caches/transforms-2/files-2.1/0d9061e3556a83de7d03df6a11091ca3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeonghwalee/GitClone/SV_Dementia_App/app/src/main/AndroidManifest.xml
